@@ -6,3 +6,5 @@ for more explanation visit my website
 
 List Of Example: 
 </br>1. EvictingQueue
+</br>2. GuavaStopWatch
+</br>3. GuavaCharMatcher

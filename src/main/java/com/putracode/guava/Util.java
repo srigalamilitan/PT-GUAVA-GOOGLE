@@ -17,4 +17,13 @@ public  class Util {
         println(HEADER_PRINT);
 
     }
+    public static void printlnSubTitle(String s){
+        printlnTab(">>>>"+s);
+    }
+    public static void printlnTab(String s){
+        println("\t"+s);
+    }
+    public static void endPrintTab(){
+        printlnTab("<<<<<");
+    }
 }
