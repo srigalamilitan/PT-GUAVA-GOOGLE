@@ -40,7 +40,7 @@ public class GuavaCharMatcher {
         data = "www.putr#acode.com awe#some 123#465";
         printlnTab("Data : "+data);
         printlnTab("Remove Char \'#\' : "+CharMatcher.is('#').removeFrom(data));
-        endPrintTab();   
+        endPrintTab();
 
     }
 }
