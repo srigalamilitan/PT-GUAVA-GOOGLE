@@ -36,5 +36,11 @@ public class GuavaCharMatcher {
         printlnTab("Range \'A\' to \'J\' for Char \'E\'" + CharMatcher.inRange('A','J').apply('E'));
         endPrintTab();
 
+        printlnSubTitle("Google Guava : Remove String \'#\'");
+        data = "www.putr#acode.com awe#some 123#465";
+        printlnTab("Data : "+data);
+        printlnTab("Remove Char \'#\' : "+CharMatcher.is('#').removeFrom(data));
+        endPrintTab();
+
     }
 }
