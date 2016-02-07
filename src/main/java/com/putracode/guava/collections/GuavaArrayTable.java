@@ -4,7 +4,6 @@ import com.google.common.collect.ArrayTable;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Table;
 
-import java.util.ArrayList;
 import java.util.List;
 import static com.putracode.guava.Util.*;
 /**
