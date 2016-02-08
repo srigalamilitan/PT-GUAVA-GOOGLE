@@ -10,3 +10,4 @@ List Of Example:
 </br>3. GuavaCharMatcher
 </br>4. MultiMap
 </br>5. ArrayTable
+</br>6. HashBasedTable
