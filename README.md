@@ -13,3 +13,5 @@ List Of Example:
 </br>6. HashBasedTable
 </br>7. Joiner
 </br>8. Splitter
+</br>9. MoreObjects
+</br>10. Strings
